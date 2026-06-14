@@ -45,7 +45,7 @@ N/A
 - [✓] My repository has a proper README.md
 - [✓] I have added setup/installation instructions
 - [✓] I have added screenshots/demo where possible
-- [ ] I have added a license file
+- [✓] I have added a license file
 - [✓] My project is original and built/updated during the hackathon period
 
 ---
