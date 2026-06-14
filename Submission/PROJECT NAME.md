@@ -3,49 +3,50 @@
 ## Participant Details
 
 **Full Name:**  
-<!-- Write your full name -->
+Khushi Kumari 
 
 **GitHub Username:**  
-<!-- Write your GitHub username -->
+khushiattri8161
 
 **Team Name:**  
-<!-- Write your team name -->
+khushi
 
 **College/University:**  
-<!-- Write your college/university name -->
+Banasthali Vidyapith 
 
 ---
 
 ## Project Details
 
 **Project Title:**  
-<!-- Write your project/idea title -->
+ Student Management system
 
 **Project Description:**  
-<!-- Explain what your project does, what problem it solves, and why it matters -->
+Student Manager App is a Python Tkinter-based desktop application that helps manage student records efficiently. Users can add, update, delete, and search student information through a user-friendly graphical interface.
+
 
 **Tech Stack Used:**  
-<!-- Example: Next.js, Node.js, MongoDB, Supabase, Tailwind CSS, Python, etc. -->
+Python, Tkinter
 
 **GitHub Repository Link:**  
-<!-- Add your public project repository link -->
+https://github.com/khushiattri8161/Student-Manager-App-
 
 **Live Demo Link:**  
-<!-- Add deployed link if available -->
+https://drive.google.com/file/d/126WNxx28V0dX6U5gUYNo6U0kzy2FD2Zu/view?usp=drivesdk
 
 **Presentation / Demo Video Link:**  
-<!-- Optional but recommended -->
+N/A
 
 ---
 
 ## Open Source Readiness
 
-- [ ] My project is public on GitHub
-- [ ] My repository has a proper README.md
-- [ ] I have added setup/installation instructions
-- [ ] I have added screenshots/demo where possible
+- [✓] My project is public on GitHub
+- [✓] My repository has a proper README.md
+- [✓] I have added setup/installation instructions
+- [✓] I have added screenshots/demo where possible
 - [ ] I have added a license file
-- [ ] My project is original and built/updated during the hackathon period
+- [✓] My project is original and built/updated during the hackathon period
 
 ---
 
